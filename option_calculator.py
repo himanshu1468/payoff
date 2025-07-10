@@ -147,7 +147,7 @@ def main():
     """
     st.set_page_config(layout="wide", page_title="Advanced Options Strategy Builder")
 
-    st.title("📊 Advanced Options Strategy Builder")
+    st.title("📊 Himanshu's Advanced Options Strategy Builder")
     st.markdown("""
         This application helps you visualize the payoff diagram of various options strategies,
         including individual options, spreads, and combinations with the underlying asset.
